@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Measures>
+  <Measure>
+	<Code>01</Code>
+  </Measure>
+  <Measure>
+	<Code>02</Code>
+  </Measure>
+  <Measure>
+	<Code>03</Code>
+  </Measure>
+  <Measure>
+	<Code>04</Code>
+  </Measure>
+</Measures>
+</Root>
+<!-- *.dat, *.txt, *.xml -->

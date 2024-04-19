@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Materials>
+  <Material>
+	<Code>01</Code>
+	<Name>Boston XO IceBlue</Name>
+  </Material>
+  <Material>
+	<Code>02</Code>
+	<Name>Boston XO Green</Name>
+  </Material>
+  <Material>
+	<Code>03</Code>
+	<Name>Boston XO Violet</Name>
+  </Material>
+  <Material>
+	<Code>04</Code>
+	<Name>Boston XO2 IceBlue</Name>
+  </Material>
+  <Material>
+	<Code>05</Code>
+	<Name>Boston XO2 Green</Name>
+  </Material>
+  <Material>
+	<Code>06</Code>
+	<Name>Boston XO2 Violet</Name>
+  </Material>
+  <Material>
+	<Code>07</Code>
+	<Name>PMMA</Name>
+  </Material>
+  <Material>
+	<Code>08</Code>
+	<Name>Acuity Blue</Name>
+  </Material>
+  <Material>
+	<Code>09</Code>
+	<Name>Acuity IceBlue</Name>
+  </Material>
+  <Material>
+	<Code>10</Code>
+	<Name>Acuity Green</Name>
+  </Material>
+  <Material>
+	<Code>11</Code>
+	<Name>Acuity Violet</Name>
+  </Material>
+  <Material>
+	<Code>12</Code>
+	<Name>SOFT</Name>
+  </Material>
+  <Material>
+	<Code>13</Code>
+	<Name>Acuity 85 Blue</Name>
+  </Material>
+  <Material>
+	<Code>14</Code>
+	<Name>Acuity 85 Green</Name>
+  </Material>
+</Materials>
+</Root>
+<!-- *.dat, *.txt, *.xml -->

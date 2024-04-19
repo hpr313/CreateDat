@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Models>
+  <Model>
+	<Code>001</Code>
+	<Name>XO OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>002</Code>
+	<Name>XO OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>003</Code>
+	<Name>XOTr OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>004</Code>
+	<Name>XOTr OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>011</Code>
+	<Name>Acuity OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>012</Code>
+	<Name>Acuity OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>013</Code>
+	<Name>AcuTr OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>014</Code>
+	<Name>AcuTr OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>021</Code>
+	<Name>XO2 OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>022</Code>
+	<Name>XO2 OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>023</Code>
+	<Name>XO2Tr OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>024</Code>
+	<Name>XO2Tr OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>031</Code>
+	<Name>Acuity 85 OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>032</Code>
+	<Name>Acuity 85 OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>033</Code>
+	<Name>AcuTr 85 OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>034</Code>
+	<Name>AcuTr 85 OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>061</Code>
+	<Name>XO2 RD OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>062</Code>
+	<Name>XO2 RD OrthoK5</Name>
+  </Model>
+  <Model>
+	<Code>063</Code>
+	<Name>XO2Tr RD OrthoK4</Name>
+  </Model>
+  <Model>
+	<Code>064</Code>
+	<Name>XO2Tr RD OrthoK5</Name>
+  </Model>
+</Models>
+</Root>
+<!-- *.dat, *.txt, *.xml -->

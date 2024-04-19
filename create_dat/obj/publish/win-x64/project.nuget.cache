@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgZru5Ngco/0O7QzHgFOSd/lH/EtntmqYia/0rcrjIbvfvWH/7kGnPvfBgWbxMw02TSg+LHUMU7q0poJhIEVCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A0317\\source\\repos\\create_dat\\create_dat\\create_dat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A0317\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

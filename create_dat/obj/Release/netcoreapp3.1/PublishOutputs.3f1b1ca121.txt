@@ -1,0 +1,5 @@
+C:\Users\A0317\source\repos\create_dat\create_dat\bin\Release\netcoreapp3.1\publish\create_dat.exe
+C:\Users\A0317\source\repos\create_dat\create_dat\bin\Release\netcoreapp3.1\publish\create_dat.dll
+C:\Users\A0317\source\repos\create_dat\create_dat\bin\Release\netcoreapp3.1\publish\create_dat.deps.json
+C:\Users\A0317\source\repos\create_dat\create_dat\bin\Release\netcoreapp3.1\publish\create_dat.runtimeconfig.json
+C:\Users\A0317\source\repos\create_dat\create_dat\bin\Release\netcoreapp3.1\publish\create_dat.pdb
